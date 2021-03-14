@@ -1,2 +1,2 @@
 # chapter2_execise
-DMM　WEBCAMPコンテンツ【HTML/CSSを学ぼう】提出課題です。
+DMM　WEBCAMPコンテンツ【HTML/CSSを学ぼう】演習問題です。
